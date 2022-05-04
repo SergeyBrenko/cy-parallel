@@ -1,0 +1,13 @@
+{
+  "projectId": "fVQ8mr",
+  "reporter": "@zebrunner/javascript-agent-cypress",
+  "reporterOptions": {
+      "reportingServerHostname": "https://webdriver.zebrunner.com",
+      "reportingServerAccessToken": "AujNFsqMWCzf5bFt4kCtrRVDd1aFqQT9EbhDV6EvG7ubcI5cMt",
+      "reportingProjectKey": "DEF",
+      "reportingRunEnvironment": "STAGE",
+      "reportingRunBuild": "1.0-alpha",
+      "reportingRunDisplayName": "My regression suite",
+      "reportingRunLocale": "en_US"
+  }
+}

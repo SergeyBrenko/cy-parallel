@@ -1,0 +1,7 @@
+version: '3.8'
+services:
+  cypress-container:
+    build: .
+    # network_mode: "bridge"
+    # volumes:
+    #   - .:.
