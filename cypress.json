@@ -11,6 +11,7 @@
       "reportingRunLocale": "en_US"
   },
   "testFiles": [
-    "./cypress/integration/2-advanced-examples/aliasing.spec.js"
+    "./cypress/integration/2-advanced-examples/aliasing.spec.js",
+    "./cypress/integration/2-advanced-examples/location.spec.js"
   ]
 }
