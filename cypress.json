@@ -10,5 +10,7 @@
       "reportingRunDisplayName": "My regression suite",
       "reportingRunLocale": "en_US"
   },
-  "testFiles": "./cypress/integration/2-advanced-examples/aliasing.spec.js"
+  "testFiles": [
+    "./cypress/integration/2-advanced-examples/aliasing.spec.js"
+  ]
 }
