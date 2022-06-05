@@ -12,5 +12,5 @@
   },
   "ignoreTestFiles": "integration/2-advanced-examples/aliasing.spec.js",
   "integrationFolder": "cypress",
-  "testFiles": "integration/**/*.*"
+  "testFiles": "e2e/**/*.*"
 }
