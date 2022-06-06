@@ -11,6 +11,5 @@
       "reportingRunLocale": "en_US"
   },
   "ignoreTestFiles": "integration/2-advanced-examples/aliasing.spec.js",
-  "integrationFolder": "cypress",
-  "testFiles": "e2e/**/*.*"
+  "integrationFolder": "cypress"
 }
