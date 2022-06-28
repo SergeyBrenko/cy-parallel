@@ -3,16 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "test1": "concurrently \"CURRENT_NODE=1 CI_NODE_TOTAL=4 node parallelCypress.js\" \"CURRENT_NODE=2 CI_NODE_TOTAL=4 node parallelCypress.js\" \"CURRENT_NODE=3 CI_NODE_TOTAL=4 node parallelCypress.js\" \"CURRENT_NODE=4 CI_NODE_TOTAL=4 node parallelCypress.js\""
-  },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@zebrunner/javascript-agent-cypress": "^1.0.27-alpha",
+    "@zebrunner/javascript-agent-cypress": "^1.0.31-alpha8",
     "concurrently": "^7.1.0",
-    "cypress": "^9.6.0",
+    "cypress": "^9.7.0",
     "dotenv": "^16.0.0",
     "glob-promise": "^4.2.2",
     "shelljs": "^0.8.5"
