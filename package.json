@@ -6,7 +6,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@zebrunner/javascript-agent-cypress": "^1.0.31-alpha12",
+    "@zebrunner/javascript-agent-cypress": "^1.0.31-alpha13",
     "concurrently": "^7.1.0",
     "cypress": "^9.7.0",
     "dotenv": "^16.0.0",
